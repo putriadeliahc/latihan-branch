@@ -1,3 +1,3 @@
 # latihan-branch
 
-ini latihan repository untuk latihan membuat brancj baru di Github
+ini latihan repository untuk latihan membuat branch baru di Github
